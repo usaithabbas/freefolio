@@ -1,0 +1,32 @@
+{
+  "name": "freefolio",
+  "version": "0.1.0",
+  "description": "Free Professional Portfolio Website Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jofftiquez/freefolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "templates",
+    "cv",
+    "resume",
+    "website",
+    "template",
+    "cv",
+    "template"
+  ],
+  "author": "Jofferson R Tiquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jofftiquez/freefolio/issues"
+  },
+  "homepage": "https://github.com/jofftiquez/freefolio#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
